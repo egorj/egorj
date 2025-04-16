@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Egor 👋  <br>I'm passionate about data, AI, and building useful tools for real-world problems.<br><br>🧠 Part-time human, full-time code whisperer<br>🤖 I train machines to understand stuff – so I don’t have to<br>🌍 Building tools that analyze the web while I sip coffee<br><br>💡 Currently working on: A weekend project that became a 3-week obsession (Recommendation System)<br>🧠 Interests: Machine Learning, Deep Learning, NLP, LLMs, Web Development, Data Science, . . .<br><br>Check out my pinned projects below 👇
+Hi, I'm Egor 👋  <br>I'm passionate about data, AI, and building useful tools for real-world problems.<br><br>🧠 Part-time human, full-time code whisperer<br>🤖 I train machines to understand stuff – so I don’t have to<br>🌍 Interests: Machine Learning, Deep Learning, NLP, LLMs, Web Development, Data Science, . . .<br><br>Check out my pinned projects below 👇
 
 
 # 💻 Tech Stack:
